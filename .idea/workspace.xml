@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14dbf1c4-36d4-4ce7-9166-2176c0947bd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BioData.java" afterDir="false" />
-    </list>
+    <list default="true" id="14dbf1c4-36d4-4ce7-9166-2176c0947bd4" name="Changes" comment="AdvanceJava" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,10 +20,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2aDZg6CwairZVSI0yTLpMSSe1Fa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,6 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/shattajit/Desktop/Java_Practice/Java",
     "onboarding.tips.debug.path": "/home/shattajit/Desktop/Java_Practice/JavaPractice/src/Main.java"
   }
 }]]></component>
@@ -65,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1703855220988</updated>
     </task>
+    <task id="LOCAL-00001" summary="AdvanceJava">
+      <option name="closed" value="true" />
+      <created>1703865411305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703865411306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AdvanceJava" />
+    <option name="LAST_COMMIT_MESSAGE" value="AdvanceJava" />
   </component>
 </project>
