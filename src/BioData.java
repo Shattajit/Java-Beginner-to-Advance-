@@ -9,10 +9,17 @@ public class BioData {
         int val = input.nextInt();
         double val1 = input.nextDouble();
         String s = input.nextLine();
+        double[] ar = new double[5];
 
         System.out.println("the value is:  "+val);
         System.out.println("the double value is:  "+val1);
         System.out.println("the string is:  "+s);
 
+        for(int i=0;i<5;++i){
+            ar[i] = input.nextDouble();
+        }
+        for(int i=0;i<5;++i){
+            System.out.println(ar[i]);
+        }
     }
 }
