@@ -10,6 +10,7 @@ public class BioData {
         double val1 = input.nextDouble();
         String s = input.nextLine();
         double[] ar = new double[5];
+        int[][] mat = new int[5][5];
 
         System.out.println("the value is:  "+val);
         System.out.println("the double value is:  "+val1);
@@ -19,7 +20,31 @@ public class BioData {
             ar[i] = input.nextDouble();
         }
         for(int i=0;i<5;++i){
-            System.out.println(ar[i]);
+            System.out.print(ar[i] + " ");
+        }
+        for(int i=0;i<5;++i){
+
+            for(int j=0;j<5;++j){
+
+                mat[i][j] = input.nextInt();
+            }
+        }
+        System.out.println();
+
+        for(int i=0;i<5;++i){
+
+            for(int j=0;j<5;++j){
+
+                mat[i][j] = input.nextInt();
+            }
+        }
+        for(int i=0;i<5;++i){
+
+            for(int j=0;j<5;++j){
+
+                System.out.print(mat[i][j]+" ");
+            }
+            System.out.println();
         }
     }
 }
