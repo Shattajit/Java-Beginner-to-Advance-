@@ -1,7 +1,13 @@
+import java.util.Scanner;
+
 public class BioData {
 
     public static void main(String[] args){
 
-        System.out.println("Shattajit");
+        Scanner input = new Scanner(System.in);
+
+        int val = input.nextInt();
+
+        System.out.println("the value is:  "+val);
     }
 }
